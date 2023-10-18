@@ -2,7 +2,7 @@
 My First Repository
 My name is Hendrick Mautjana, I am studying IT Javascript for the attending as work hards WPR261 assignment 1.
 
-##Dillinger 
+## Dillinger 
 Dillinger is an React JS-powered HTMLS markdown editor that supports the cloud, mobile devices, office storage, and other features.
 
 - Markdown should be typed on the left.
